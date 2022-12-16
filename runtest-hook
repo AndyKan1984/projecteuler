@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+print("HELLO FORM PYTHON")
+exit()
